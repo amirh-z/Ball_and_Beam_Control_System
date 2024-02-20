@@ -3,7 +3,7 @@ This program is a design for ball and beam control system as a part of "Linear C
 A full description containing output plots is included in Persian.
 
 ## Physical Setup Schematic
-<img src="Setup.png" alt="Menu" width="400" height="300"/>
+<img src="Setup.png" alt="Setup" width="600" height="350"/>
 
 ## Design Criteria
 - Overshoot < 5%
